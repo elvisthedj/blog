@@ -5,6 +5,8 @@ tags:
   - code
   - blog
   - perl
+  - python
+  - asterisk
 ---
 I'll start with a disclaimer:
 
